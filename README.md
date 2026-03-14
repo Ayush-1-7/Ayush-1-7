@@ -1,110 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center">🚀 Software Engineer | Data Analytics & Automation | DevOps Enthusiast</h3>
+<h1 align="center">Ayush Sharma</h1>
 
 <p align="center">
-Building intelligent systems, automation tools, and data-driven platforms.
+Software Engineer • Automation Builder • Data & Backend Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Automation+Engineer;Data+Analytics+Builder;AI+Tools+Explorer;DevOps+Learner;Backend+Developer" />
+Building intelligent tools, automation systems and data-driven platforms.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Automation+Engineer;Backend+Developer;AI+Tools+Explorer;Data+Analytics+Builder;DevOps+Learner" />
 </p>
 
 ---
 
-# 💫 About Me
+### ✦ About
 
-💻 **Software Engineer at Zensar Technologies**  
-📊 Specialized in **Data Analytics, Automation, and Enterprise Dashboards**  
+• Computer Science Engineer  
+• Interested in **AI tools, automation, backend systems, and data platforms**  
+• I enjoy building tools that **remove repetitive work and improve productivity**
 
-⚡ I build systems that **remove manual work and let machines do the boring tasks.**
+Currently exploring:
 
-🔭 Currently working on  
-• Enterprise **automation systems**  
-• **Data analytics dashboards**  
-• AI-powered **workflow tools**
-
-🌱 Currently learning  
-• **Cloud architecture**  
-• **Distributed systems**  
-• **AI-powered automation**
-
-💬 Ask me about  
-• Data analytics  
-• Automation workflows  
-• Power BI dashboards  
-• DevOps basics  
-
-
+`cloud systems` • `ai automation` • `scalable backend architecture`
 
 ---
 
+### ✦ Tech Stack
 
+**Languages**
 
-# 🧠 What I Love Building
+![skills](https://skillicons.dev/icons?i=cpp,python,js,ts,html,css)
 
-🤖 AI automation tools  
-📊 Data analytics platforms  
-⚙️ Workflow automation systems  
-🌐 Full-stack web applications  
-📈 Business intelligence dashboards  
+**Backend**
 
----
+![skills](https://skillicons.dev/icons?i=nodejs,express,django,nextjs)
 
-# 💻 Tech Stack
+**Databases**
 
-### 👨‍💻 Programming
-![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,html,css)
+![skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
-### ⚙️ Backend & Frameworks
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,nextjs)
+DynamoDB
 
-### 🗄️ Databases
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+**DevOps & Cloud**
 
-Amazon DynamoDB
-
-### ☁️ Cloud & DevOps
-![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,vercel)
+![skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,vercel)
 
 Prometheus • Grafana
 
-### 📊 Data & Visualization
-NumPy • Matplotlib • Power BI • DAX • ETL
+**Data**
 
-### 🛠 Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,figma)
+NumPy • Matplotlib • ETL • Analytics
 
-Canva • Windows Terminal
+**Tools**
+
+![skills](https://skillicons.dev/icons?i=git,github,figma)
+
+---
+
+### ✦ What I Build
+
+• automation systems  
+• ai powered tools  
+• data analytics platforms  
+• backend services  
+• developer productivity tools  
 
 
 ---
 
-# 🤝 Open Source & Collaboration
+### ✦ Connect
 
-I’m always interested in collaborating on:
+<p align="center">
 
-• **AI tools & developer automation**  
-• **Data analytics projects**  
-• **DevOps / cloud systems**  
-• **Open-source productivity tools**
+<a href="https://www.linkedin.com/in/ayush-sharma--/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-If you're building something interesting — **let’s collaborate.**
+<a href="mailto:ayush17ssh@gmail.com">
+<img src="https://img.shields.io/badge/Email-ayush17ssh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+</p>
 
-# 🌐 Connect With Me
-
-💼 LinkedIn  
-📧 ayush17ssh@gmail.com  
 
 ---
 
-# ⭐ Developer Philosophy
-
-> “Automate everything that is repetitive.  
-> Use data to drive every decision.  
-> Build systems that scale beyond humans.”
-
----
-
-⭐ If you like my work, consider **starring my repositories**.
+<p align="center">
+“Build systems once. Let them work forever.”
+</p>
