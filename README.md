@@ -34,20 +34,11 @@ Building intelligent systems, automation tools, and data-driven platforms.
 • Power BI dashboards  
 • DevOps basics  
 
-⚡ Fun fact  
-I have built automations that saved **4700+ hours of manual work annually** (≈2.3 FTE). :contentReference[oaicite:1]{index=1}
+
 
 ---
 
-# 🚀 Professional Impact
 
-✔ Built **12+ enterprise dashboards** used in HR & sales operations  
-✔ Automated workflows saving **4700+ annual hours**  
-✔ Reduced operational costs by **$15,000+**  
-✔ Built automation pipelines using **Python, Power Automate & ETL workflows**  
-✔ Designed internal portals used across enterprise teams  
-
----
 
 # 🧠 What I Love Building
 
