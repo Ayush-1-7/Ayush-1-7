@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ayush-1-7/Ayush-1-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+Software Engineer at Zensar - Data Analyst & Automation Engineer | Ex-Cloud & DevOps Intern, Rakuten Symphony
 
-Here are some ideas to get you started:
+🌐 Socials:
+LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C++ CSS3 HTML5 JavaScript TypeScript Windows Terminal Python AWS Vercel Bootstrap Django Express.js NodeJS Next JS Jenkins AmazonDynamoDB MongoDB MySQL Canva Figma NumPy Matplotlib Git GitHub Docker Kubernetes Prometheus
+
+📊 GitHub Stats:
+
+
+
+
